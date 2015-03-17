@@ -1,4 +1,5 @@
 # yosemite-gtk-theme
-GTK 2.x theme
+An OS X Yosemite like ElementaryOS Luna theme. It's based on the excellente Elementary default theme
 
-on going
+# Credits to
+zerouno-it
